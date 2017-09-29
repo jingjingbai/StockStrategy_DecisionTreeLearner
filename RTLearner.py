@@ -64,8 +64,7 @@ class RTLearner(object):
         # query on the right tree
         else: return self.query_point(point, int(node.item(3)) + index)
         
-    def author(self):
-        return 'zzhao38'  # Georgia Tech username.
+
 '''
 if __name__ == "__main__":
     print "all works and no play makes me a dull boy!"

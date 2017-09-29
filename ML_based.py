@@ -83,8 +83,7 @@ def OBV(df_price, df_volume):
     result = pd.DataFrame({'OBV': OBV},dtype=int)
     return result
 
-def author():
-    return 'zzhao38'
+
 
 
 # In[2]:

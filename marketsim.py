@@ -120,8 +120,7 @@ def test_code(of):
     
     return portvals    
 
-def author():
-    return 'zzhao38'
+
 
 
 #if __name__ == "__main__":

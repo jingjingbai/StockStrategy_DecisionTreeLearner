@@ -1,6 +1,4 @@
-"""
-Test a learner.  (c) 2015 Tucker Balch
-"""
+
 
 import numpy as np
 import math
